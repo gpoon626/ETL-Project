@@ -1,4 +1,4 @@
-,Title_ID,Title,Year,Length (Duration),Beats Per Minute (BPM),Danceability,Popularity,Energy,Artist_ID,Genre_ID
+Title_ID,Title,Year,Length (Duration),Beats Per Minute (BPM),Danceability,Popularity,Energy,Artist_ID,Genre_ID
 0,0,Sunrise,2004,201,157,53,71,30,0,0
 1,1,Black Night,2000,207,135,50,39,79,47,1
 2,2,Clint Eastwood,2001,341,168,66,69,69,163,2
